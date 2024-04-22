@@ -234,3 +234,4 @@
 {"level":"info","message":"Received GET request for /health from ::ffff:127.0.0.1","service":"calculator-microservice"}
 {"level":"info","message":"Received GET request for /health from ::ffff:127.0.0.1","service":"calculator-microservice"}
 {"level":"info","message":"Received GET request for /health from ::ffff:127.0.0.1","service":"calculator-microservice"}
+{"level":"info","message":"Received GET request for /health from ::ffff:127.0.0.1","service":"calculator-microservice"}
